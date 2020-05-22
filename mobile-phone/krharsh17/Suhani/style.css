@@ -1,0 +1,123 @@
+.body{
+    background-color: #cbf7f7;
+}
+.front{
+    background-color: #f0f5ed;
+    border-radius: 37px;
+    height: 544px;
+    width: 316px;
+    align-content: center;
+    text-align: center;
+    margin-left: 210px;
+    margin-top: 36px;
+    border: 4px solid #ad8db5;
+}
+
+.fbl{
+    background-color: #f0f5ed;
+    border-radius: 32px;
+    height: 536px;
+    width: 308px;
+    border: 10px solid rgb(7, 6, 8);
+}
+
+.back{
+    background-color: #f1dddd;
+    border-radius: 37px;
+    background: linear-gradient(to bottom, #eeecef, #c5a0d4);
+    height: 544px;
+    width: 316px;
+    margin-left: 361px;
+    margin-top: -499px;
+    border: 4px solid #ad8db5;
+}
+.back2{
+    background-color: #f1dddd;
+    border-radius: 37px;
+    background: linear-gradient(to bottom, #eeecef, #cfb9d8);
+    height: 134px;
+    width: 139px;
+    align-content: center;
+    text-align: center;
+    margin-left: 17px;
+    margin-top: 10px;
+    border: 2px solid #d6d2d5;
+}
+.camera{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: black;
+    border: 3px solid #776a6a;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: grey;
+}
+.circle{
+    height: 30px;
+    width: 30px;
+    border-radius: 17px;
+    border: 2px solid blue;
+}
+.circle-sm{
+    height: 5px;
+    width: 5px;
+    border-radius: 7px;
+    border: 2px solid blue;
+}
+.cl{
+    margin-left: 16px;
+    width: 4px;
+    height: 33px;
+    background-color: #523f3f;
+    margin-top: 1px;
+}
+.cl1{
+    margin-left: 11px;
+    width: 4px;
+    height: 24px;
+    background-color: #ecd4a3;
+    margin-top: 1px;
+}
+.hole{
+    height: 30px;
+    width: 30px;
+    border-radius: 59px;
+    background-color: #e4d671;
+    border: 2px solid #847171;
+    margin-top: 17px;
+    margin-left: 68px;
+}
+.hole-sm{
+    height: 6px;
+    width: 6px;
+    border-radius: 20px;
+    background-color: #9E9E9E;
+    border: 3px solid #776a6a;
+    margin-top: -22px;
+    margin-left: 79px;
+    color: grey;
+}
+.top{
+    background-color: black;
+    width: 130px;
+    height: 17px;
+    margin-top: -20px;
+    margin-left: 60px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.bt-line{
+    height: 5px;
+    width: 97px;
+    border-radius: 500px;
+    background-color: black;
+    margin-top: 7px;
+    margin-left: 50px;
+}
+.f-line{
+    height: 2px;
+    width: 286px;
+    background-color: #d0c4c4;
+    margin-top: 10px;
+}
